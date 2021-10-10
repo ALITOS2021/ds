@@ -1,0 +1,94 @@
+
+
+🍀MongoDB🍀01🍀 ¿Qué es MongoDB? Introducción al Curso
+varios tutoriales de mogo para crear insertar
+https://www.youtube.com/watch?v=nlOWsnO-d7Q&list=PLXXiznRYETLcJE_4U9qN2pysZOSYyL4Mh
+
+NoSQL desde cero: Aprende MongoDB en 10 minutos (FÁCIL y RÁPIDO)
+https://www.youtube.com/watch?v=cT1HAaPqI-c
+
+
+CURSO VARIOS LENGUAJES
+
+https://platzi.com/cursos/programacion-basica/?utm_source=youtube&utm_medium=organic&utm_campaign=LATAM_YTB_VIDEO_UF_0321-aprender-programacion
+
+Cómo instalar MongoDB gratis [2021]
+https://www.youtube.com/watch?v=-GLMGXkXa7k
+
+Mongodb Atlas, Introducción Práctica
+https://www.youtube.com/watch?v=97FfXEy1zas
+
+https://github.com/FaztTech/nodejs-notes-app
+
+
+
+Nodejs y Mysql, Conexión y Ejemplo Práctico, Desde Cero
+BOOTSTRAP
+https://www.youtube.com/watch?v=O3yNkUfkXfM
+
+
+Como crear Bases de Datos en MongoDB Compass Creación de Colecciones, Documentos y Vistas
+https://www.youtube.com/watch?v=8gbDA7kH5zg
+
+https://www.youtube.com/watch?v=ARIzrNwA5HQ
+MEVN Curso - Mongodb, Express, Vuejs y Nodejs, Parte 1 - Backend con Nodejs, Express y Mongodb
+
+https://www.youtube.com/watch?v=NQFaukftHpg
+MEVN Curso - Mongodb, Express, Vuejs y Nodejs, Parte 2 - Frontend con Vuejs
+****************************************
+Nodejs y Mongodb Aplicación completa (Login, Registro,CRUD, ES6+, y más)
+https://www.youtube.com/watch?v=-bI0diefasA
+
+CÓDIGO FINAL:
+https://github.com/FaztTech/nodejs-notes-app
+
+Vuejs, Nodejs y Mongodb Paginación
+https://www.youtube.com/watch?v=et4t5yS9Hgk
+*****************************************************+
+Create a crud Application using Vue, Node and MongoDB
+https://codesource.io/create-a-crud-application-using-vue-node-and-mongodb/
+
+*************************************
+User Authentication with Vue.js + JWT (express.js & mongodb BACKEND) PART 1
+https://www.youtube.com/watch?v=W5Ky44mWQZE
+User Authentication with Vue.js + JWT (express.js & mongodb BACKEND) PART 2
+https://www.youtube.com/watch?v=W5Ky44mWQZE
+
+¨¨¨¨¨¨¨¨¨¨¨¨
+Git y Github | Curso Práctico de Git y Github Desde Cero
+https://www.youtube.com/watch?v=HiXLkL42tMU
+
+
+
+/*{"nombre":"Pedro","apellido":"Cano", "edad":"46", "correo":"pc@gmail.com"}
+{"nombre":"Ramel","apellido":"Falcao", "edad":"36", "correo":"rf@gmail.com"}
+{"nombre":"Jorge","apellido":"Prado", "edad":"36", "correo":"jp@gmail.com"}*/
+{"nombre":"Ramiro","apellido":"Bravo", "edad":"29", "correo":"rb@gmail.com"}
+{"nombre":"Electricidad","descripcion":"Trabajos Electricidad"}
+
+
+<template>
+  <v-list-item
+    :key="`task-${task_i}`"
+    :value="task"
+    active-class="deep-purple--text text--accent-4"
+  >
+    <template v-slot:default="{ active }">
+      <v-list-item-content>
+        <v-list-item-title>{{ task.description }}</v-list-item-title>
+      </v-list-item-content>
+
+      <v-list-item-action>
+        <v-checkbox
+          :input-value="active"
+          color="deep-purple accent-4"
+        ></v-checkbox>
+      </v-list-item-action>
+    </template>
+  </v-list-item>
+
+
+CAMPO FORANEO 
+REFERENT
+
+https://www.youtube.com/watch?v=isYQvMDiJIY

@@ -1,0 +1,62 @@
+
+npm install
+node intall
+npm install -g @vue/cli
+
+
+https://github.com/Equipo6UTP/website---copia.git
+
+//-------iniciarndo la configur del package.json
+npm init -y le dice a todo si despues de borrar el js
+//-----npm install express
+
+npm install express
+
+//--- instalar nodemon
+npm install nodemon
+
+npm uninstall nodemon
+nmp install -g nodemon
+
+abrir package.json 
+
+ "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+
+//src--controllers y routers se crean manual
+
+//---ejecutar el servidor
+
+node scr/index.js
+
+abrir navegador
+digital 
+localhost:3000
+//---instalar postman
+
+npm install postman
+
+//---instalar mongoose
+
+ver el api mas bonitos
+http://localhost:3000/users/
+//--http://jsonviewer.stack.hu/
+
+
+instalar libreria coorse en EL BACKEND
+//--- npm install cors
+
+/////////////////////////
+PARA CORRER EL FRONTEND
+C:\Users\evelio.latorre\Desktop\IMASTER\proyectos\dev\calculadora>npm run serve
+////////////////////////////
+PARA CORRER EL BACKTEND
+C:\Users\evelio.latorre\Desktop\IMASTER\proyectos\dev\backend_nodejs\node_modules>npm run dev
+PARA SABER QUE CORRE EL MONGO
+C:\Windows\system32>mongod
+PARA INGRESAR A LAS BD POR Des
+C:\Windows\system32>mongo
+
+////////////////////////////
